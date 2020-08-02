@@ -9,6 +9,8 @@ This example uses the following EV3 features:
 * changing light colours
 * displaying the battery status
 
+The [Documentation for Pybricks](https://docs.pybricks.com/en/latest/ev3devices.html) is really helpful.
+
 <a href="https://codeadam.ca">
 <img src="https://codeadam.ca/images/code-block.png" width="100">
 </a>
