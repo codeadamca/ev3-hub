@@ -1,4 +1,5 @@
-# ev3-hub
+# LEGO Mindstorms EV3 Hub Features
+
 A Python snippet utilizing most of the feattures of the LEGO EV3 Brick and [Pybricks](https://pybricks.com/). [Pybricks](https://pybricks.com/) is the LEGO recommended method of using the LEGO EV3 Brick with Python. See the official [Python for EV3](https://education.lego.com/en-us/support/mindstorms-ev3/python-for-ev3) LEGO page for more details. 
 
 This example uses the following EV3 features:
